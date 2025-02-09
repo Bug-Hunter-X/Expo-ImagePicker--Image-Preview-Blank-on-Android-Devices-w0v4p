@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library in conjunction with certain Android devices.  The issue manifests as a failure to properly display the selected image after the user chooses it from their device's gallery.  The image preview remains blank or shows a broken image icon, while logging reveals no apparent errors.
